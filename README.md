@@ -26,9 +26,9 @@ Desarrollador apasionado por la tecnología y el código limpio.
 
 ### 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natsu-dev01&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://gh-readme-stats.vercel.app/api?username=natsu-dev01&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natsu-dev01&layout=compact&theme=tokyonight)
+![Top Langs](https://gh-readme-stats.vercel.app/api/top-langs/?username=natsu-dev01&layout=compact&theme=tokyonight)
 
 ---
 
