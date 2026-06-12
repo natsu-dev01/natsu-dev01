@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=natsu-dev01&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=white"/>
 </div>
 
 <h1 align="center">👋 ¡Hola! Soy natsu-dev01</h1>
